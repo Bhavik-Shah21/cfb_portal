@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env/
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
+*.pid
+.docker/
+
+# Data files
+*.csv
+*.parquet
